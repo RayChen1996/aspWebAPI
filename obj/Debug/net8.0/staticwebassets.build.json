@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YYD6esx3uOMgplhvqfjZH+zAP7D0nR67aKrIc+jOLLw=",
+  "Source": "sideprjWebApi",
+  "BasePath": "_content/sideprjWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
